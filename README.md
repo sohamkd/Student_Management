@@ -1,6 +1,7 @@
 # Student_Management
 
-* Not able to do the Jwt role based authentication but we performed the authentication by providing hardcoded useername and password. 
+* Not able to do the Jwt role based authentication but we performed the authentication by providing hardcoded username and password.
+* So the username and password is not coming from databse. 
 
 Instructions to run the project:-
 
