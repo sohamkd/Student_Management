@@ -7,8 +7,6 @@ Instructions to run the project:-
     Authentication = POST /auth/login
              We have to pass username and password in JSON format.After sending the request for authentication it will generate a JWT token.
              Using this token we can access all the apis.
-
-     ![http___localhost_8080_auth_login - My Workspace 7_31_2024 9_35_57 PM](https://github.com/user-attachments/assets/83611af3-019d-448f-9e16-b657a454fcfe)
         
      
     Student API  : 
