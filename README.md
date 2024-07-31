@@ -22,4 +22,4 @@ Instructions to run the project:-
             For creating subject  =  POST /subject
             For getting all subjects = GET /subject
 
-  
+  ![http___localhost_8080_auth_login - My Workspace 7_31_2024 9_35_57 PM](https://github.com/user-attachments/assets/e443e778-8c6d-484c-8253-e612d465f5fa)
